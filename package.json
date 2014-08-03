@@ -1,42 +1,43 @@
 {
-	"name": "findhit-process",
-	"description": "javascript process library compatible with browser-side",
-	"version": "0.0.1",
-	"author": "José Moreira <jose.moreira@findhit.com>",
-	"contributors": [
-		{
-			"name": "José Moreira",
-			"email": "jose.moreira@findhit.com"
-		},
-		{
-			"name": "Bruno Casanova",
-			"email": "bruno.casanova@findhit.com"
-		},
-		{
-			"name": "Gabriel Conceição",
-			"email": "gabriel.conceicao@findhit.com"
-		}
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/findhit/findhit-process.git"
-	},
-	"bugs": {
-		"url": "https://github.com/findhit/findhit-process/issues"
-	},
-	"dependencies": {
-	},
-	"devDependencies": {},
-	"keywords": [
-		"process",
-		"library",
-		"browser-side",
-		"nodejs"
-	],
-	"main": "index",
-	"scripts": {},
-	"engines": {
-		"node": ">=0.8"
-	},
-	"license": "GPL v3"
+  "name": "findhit-process",
+  "description": "javascript process library compatible with browser-side",
+  "version": "0.0.1",
+  "author": "José Moreira <jose.moreira@findhit.com>",
+  "contributors": [
+    {
+      "name": "José Moreira",
+      "email": "jose.moreira@findhit.com"
+    },
+    {
+      "name": "Bruno Casanova",
+      "email": "bruno.casanova@findhit.com"
+    },
+    {
+      "name": "Gabriel Conceição",
+      "email": "gabriel.conceicao@findhit.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/findhit/findhit-process.git"
+  },
+  "bugs": {
+    "url": "https://github.com/findhit/findhit-process/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^1.21.3"
+  },
+  "keywords": [
+    "process",
+    "library",
+    "browser-side",
+    "nodejs"
+  ],
+  "main": "index",
+  "scripts": {},
+  "engines": {
+    "node": ">=0.8"
+  },
+  "license": "GPL v3"
 }
