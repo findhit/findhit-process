@@ -3,7 +3,7 @@ REPORTER ?= spec
 # Paths
 HOME ?= $(shell dirname $(realpath ~))
 BASE := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
-PATH_TEST := $(BASE)/test
+PATH_TEST := $(BASE)/tests
 
 all: test
 .PHONY: all
