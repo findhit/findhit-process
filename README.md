@@ -6,7 +6,7 @@ Wraps all capabilities of `process` on **nodejs**, some slightly modified, and i
 ## Instalation
 
 ```bash
-npm install findhit/findhit-process --save
+npm install findhit-process --save
 ```
 
 ## Usage
