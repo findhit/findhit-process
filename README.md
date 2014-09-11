@@ -1,5 +1,4 @@
-findhit-process
-===============
+# Process ![test-badge](http://strider.findhit.com/findhit/findhit-process/badge)
 
 Wraps all capabilities of `process` on **nodejs**, some slightly modified, and it is designed to run on browser-side too.
 
